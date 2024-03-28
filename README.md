@@ -9,4 +9,4 @@
 ##### Purpose:
     This app contains all movie details along with ratings
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/api/reactjs/movie-search/)
+#### Check out the live app [here](https://priyanka23-brs.github.io/React-Movie-Search/)
